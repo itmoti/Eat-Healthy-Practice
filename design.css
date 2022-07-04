@@ -90,7 +90,7 @@ button {
     background-size: cover;
 }
 
-.third-section {}
+
 
 .center {
     text-align: center;
@@ -113,14 +113,10 @@ button {
 
 }
 
-.left {
-    border
-}
 
 .radius {
-    border-radius:25px;
-    box-shadow: 5px 5px  10px grey
-
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px grey;
 }
 
 .fourth-section {
@@ -134,14 +130,16 @@ button {
 .fourth-section span {
     padding: 20px;
     line-height: 10px;
-  
+
 }
+
 .fifth-section {
     background-color: black;
     color: white;
     font-size: 10%;
-  
+
 }
+
 .orange {
-    color : orange
+    color: orange
 }
