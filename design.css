@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+}
+
+.container-flex {
+    display: flex;
+}
+
+.text-color {
+    color: red;
+}
+
+p {
+    font-size: 25px;
+}
+
+.first-section p {
+    padding: 20px;
+}
+
+h1 {
+    font-size: 40px;
+
+}
+
+.first-section h1 {
+    padding: 20px 20px 0px 20px;
+}
+
+.width {
+    width: 47%;
+}
+
+.width img {
+
+
+    width: 100%;
+
+    float: left;
+
+
+}
+
+.first-section {
+    background-image: url("images/shapes/Frame\ 59.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: lighten;
+    
+}
+
+button {
+    background-color: orange;
+    background-image: linear-gradient(#EC9F05, #FF4E00);
+    padding: 10px 15px;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
+    border: 0px hidden;
+    margin: 0px 0px 50px 50px;
+    font-size: 18   px;
+    font-weight: 700;
+}
+.span {
+    color:darkorange;
+}
+#about-me{
+    color: gray;
+}
+.second-section {
+    background-image: url("images/shapes/Frame\ 57.jpg");
+    background-repeat: no-repeat;
+    background-size : cover;
+}
+.third-section {
+
+}
+.center {
+    text-align: center;
+    width: 70%;
+    margin : auto;
+}
+.recipe {
+
+}
