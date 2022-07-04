@@ -31,15 +31,19 @@ h1 {
     width: 47%;
 }
 
-.width img {
+.f-image  {
 
 
     width: 100%;
 
-    float: left;
+  
 
 
 }
+.space  {
+    margin-bottom: 20px;
+}
+
 
 .first-section {
     background-image: url("images/shapes/Frame\ 59.jpg");
@@ -80,6 +84,25 @@ button {
     width: 70%;
     margin : auto;
 }
-.recipe {
+.recipe img {
+    width: 90%;
+    padding-left:15px;
+    padding-top: 15px;
+   border-radius: 30px;
 
+}
+.recipe div {
+    width: 40%;
+    margin: auto;
+    
+}
+.image {
+    width: 40%;
+    margin-left : 20px;
+}
+ .left {
+    border 
+ }
+.radius {
+    border-radius: 25px;
 }
